@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,nodejs,pandas,js,docker,git,linux,vscode,github,streamlit,mongodb,mysql&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,nodejs,pandas,js,docker,git,linux,vscode,github,streamlit,mongodb,mysql&perline=8&theme=dark" />
 
 ### Specialized In
 
