@@ -120,6 +120,11 @@
 </tr>
 </table>
 
+
+<div align="center">
+
+<br/>
+
 <div align="center">
 
 <br/>
@@ -128,15 +133,9 @@
 
 ### 💪 I ship fast. I ship real. Let's build the future together.
 
-<br/>
-
-```python
-while alive:
-    learn()
-    build()
-    deploy()
-    repeat()
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=60&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=900&lines=If+it+ain%27t+deployed%2C;it+doesn%27t+exist." alt="If it ain't deployed, it doesn't exist." />
+</p>
 
 ### ⭐ If you like my work, drop a star on my repos!
 
