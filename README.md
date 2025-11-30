@@ -53,6 +53,8 @@
 | **🛒 E-Commerce Bot** | GenAI shopping assistant for Flipkart | OpenAI API • NLP • Context Mgmt | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://e-commerce-chatbot-fk.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/e-commerce-chatbot-test-mvp-for-https-www.flipkart.com-) |
 | **📊 AtliQ Hotels Analytics** | Business intelligence for hospitality | Power BI • SQL • Python | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/-Hospitality-domain-data-analytics) |
 | **LLM-Hybrid Log Classifier** | Hybrid log classification system blending Regex, Sentence Transformers + Logistic Regression, and LLMs for complex logs | Python • FastAPI • Sentence Transformers • scikit-learn • Groq • GenAI | Deployed & Running via FastAPI | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/llm-hybrid-log-classifier) |
+
+
 <div align="center">
 
 ### 🔧 Also Built
