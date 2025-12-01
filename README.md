@@ -71,7 +71,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavidanAkb2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" />
 
 </div>
 
