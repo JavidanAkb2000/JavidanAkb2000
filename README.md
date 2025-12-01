@@ -68,6 +68,8 @@
 
 ## 📊 GitHub Analytics
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavidanAkb2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=58a6ff&text_color=c9d1d9&ring_color=8b5cf6" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavidanAkb2000&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ff7b72&currStreakLabel=c9d1d9&sideNums=c9d1d9" />
 
 <br/>
 
