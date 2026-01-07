@@ -46,16 +46,16 @@
 
 | 🎯 Project | 💡 What It Does | 🧠 Tech Stack | 🚀 Live Demo | 📦 Repo |
 |-----------|----------------|--------------|-------------|---------|
-| **🏥 Health Premium Predictor** | ML-powered insurance cost prediction | Scikit-learn • Streamlit • Pandas | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://end-to-end-health-care-premium-prediction.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/health-care-premium) |
+| **🩺 InsideHealth Evidence Q&A** | Evidence-based clinical research assistant that ingests PubMed articles, performs RAG with citation control, and answers medical questions using strict clinical wording | LangChain • Groq (Llama 3.3 70B) • ChromaDB • RAG • Sentence Transformers • Streamlit | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://insidehealth.streamlit.app/) |  [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/health-care-premium) |
+| **🏥 Health Premium Predictor** | ML-powered insurance cost prediction | Scikit-learn • Streamlit • Pandas | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://end-to-end-health-care-premium-prediction.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/InsideHealth) |
 | **💳 Credit Risk Classifier** | Binary classification for loan approval | XGBoost • SMOTE • Feature Eng | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://credit-risk-model-end-to-end.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/credit-risk-model) |
 | **🚗 Car Damage Detector** | CNN-based damage detection from images | PyTorch • ResNet • CV | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://cardamagedeeplearning.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/car-damage-deep-learning) |
 | **🏠 Real Estate AI Agent** | RAG-powered property advisor chatbot | LangChain • LLMs • Vector DB | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://real-estate-assistant-gen-ai.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/real-estate-assistant-gen-ai) |
 | **🛒 E-Commerce Bot** | GenAI shopping assistant for Flipkart | OpenAI API • NLP • Context Mgmt | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://e-commerce-chatbot-fk.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/e-commerce-chatbot-test-mvp-for-https-www.flipkart.com-) |
 | **📊 AtliQ Hotels Analytics** | Business intelligence for hospitality | Power BI • SQL • Python | — | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/-Hospitality-domain-data-analytics) |
 | **📋 LLM-Hybrid Log Classifier** | Hybrid log classification system blending Regex, Sentence Transformers + Logistic Regression, and LLMs for complex logs | Python • FastAPI • Sentence Transformers • scikit-learn • Groq • GenAI | Deployed & Running via FastAPI | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/llm-hybrid-log-classifier) |
-| **🥤 Codex Energy Drink Price Prediction App** | Predict optimal pricing for Codex Energy Drink using consumer behavior, demographic patterns, and brand affinity — powered by advanced ensemble ML models. | Scikit-learn • XGBoost • LightGBM • Random Forest • Streamlit • Pandas | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://codex-energy-drink-pricerange-prediction.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/codex-energy-drink-price-prediction-app) |
-| **🍎 FreshHarvest AI Inspector** | CNN-powered fruit quality assessment system that detects fresh vs spoiled fruits using Deep Learning and Computer Vision | PyTorch • CNN • Image Processing • Streamlit | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://freshharvestcnn.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/freshharvest-quality-cnn) |
-
+| **🥤 Codex Energy Drink Price Prediction App** | Predict optimal pricing for Codex Energy Drink using ensemble ML models | Scikit-learn • XGBoost • LightGBM • Random Forest • Streamlit • Pandas | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://codex-energy-drink-pricerange-prediction.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/codex-energy-drink-price-prediction-app) |
+| **🍎 FreshHarvest AI Inspector** | CNN-powered fruit quality assessment system | PyTorch • CNN • Image Processing • Streamlit | [![Live](https://img.shields.io/badge/Try_It-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://freshharvestcnn.streamlit.app/) | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/JavidanAkb2000/freshharvest-quality-cnn) |
 
 <div align="center">
 
@@ -66,89 +66,4 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavidanAkb2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=58a6ff&text_color=c9d1d9&ring_color=8b5cf6" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JavidanAkb2000&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ff7b72&currStreakLabel=c9d1d9&sideNums=c9d1d9" />
-
-<br/>
-
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 2025 Mission
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🔥 Currently Grinding
-- Advanced RAG Systems
-- Multi-Agent Architectures
-- LangChain & LlamaIndex
-- Vector Databases
-- Production ML Ops
-
-</td>
-<td align="center" width="33%">
-
-### 🎯 2025 Targets
-- Land a kickass AI/ML role
-- Build open-source GenAI tools
-- Launch my own AI SaaS
-- Contribute to major AI projects
-- Ship 5+ production apps
-
-</td>
-<td align="center" width="33%">
-
-### 💼 Always Open To
-- Collaboration on AI projects
-- Freelance ML/AI work
-- Internships & research roles
-- Hackathons & competitions
-- Tech talks & mentorship
-
-</td>
-</tr>
-</table>
-
-
-<div align="center">
-
-<br/>
-
-<div align="center">
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-### 💪 I ship fast. I ship real. Let's build the future together.
-
-<p align="center">
-  <!-- Typing SVG: set repeat=true so it keeps animating -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=60&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=900&lines=If+it+ain%27t+deployed%2C;it+doesn%27t+exist." alt="If it ain't deployed, it doesn't exist." />
-</p>
-
-
-### ⭐ If you like my work, drop a star on my repos!
-
-*"The best way to predict the future is to build it with AI."* 🤖✨
-
----
-
-[![GitHub followers](https://img.shields.io/github/followers/JavidanAkb2000?style=social)](https://github.com/JavidanAkb2000)
-[![GitHub stars](https://img.shields.io/github/stars/JavidanAkb2000?style=social)](https://github.com/JavidanAkb2000)
-
-**Made with 💜 by Javidan | © 2025**
-
-</div>
+**Made with 💜 by Javidan | © 2026**
