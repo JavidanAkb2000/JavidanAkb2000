@@ -31,6 +31,7 @@
 ![GenAI](https://img.shields.io/badge/GenAI-Advanced-8B5CF6?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Proficient-00C7B7?style=flat-square)
 ![RAG Systems](https://img.shields.io/badge/RAG-Building-58A6FF?style=flat-square)
+![Agentic AI Project](https://img.shields.io/badge/Agentic_AI-Project-brightgreen)
 
 </div>
 
